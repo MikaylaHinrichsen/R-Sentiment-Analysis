@@ -1,5 +1,3 @@
-Requirements
-
 - corrplot 0.95
 - ggpol 0.0.7
 - magrittr 2.0.3
