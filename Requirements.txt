@@ -1,0 +1,10 @@
+Requirements
+
+- corrplot 0.95
+- ggpol 0.0.7
+- magrittr 2.0.3
+- plotly 4.10.4
+- stringdist 0.9.15
+- textdata 0.4.5
+- tidytext 0.4.2
+- tidyverse 2.0.0
