@@ -6,7 +6,7 @@ library(corrplot)
 #Data Import and Cleaning
 #Import Dataset in the R Studio Environment
 
-#Imported usingthe environment in R studio, here is what it produced:
+#Imported using the environment in R studio:
 #> Airline_review <- read_csv("Your Path Here", 
 #                             +     col_types = cols(Review_Title = col_skip(), 
 #                                                    +         Aircraft = col_skip(), `Date Flown` = col_skip(), 
